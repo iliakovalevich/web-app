@@ -1,4 +1,9 @@
-.buttonStyle {
+.buttonPlusStyle {
     width: 100px;
     height: 50px;
-}
+    color: greenyellow;
+}.buttonMinusStyle {
+     width: 100px;
+     height: 50px;
+     color: red;
+ }
